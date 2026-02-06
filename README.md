@@ -29,6 +29,7 @@ Contributions are welcome! Please open an issue to suggest a tool.
 - **Rank Math SEO** - A powerful WordPress plugin to optimize your content. Offers a content analysis tool.
 - **Yoast SEO** - The most popular WordPress SEO plugin for on-page optimization.
 - **Surfer SEO** - A content intelligence tool that helps you write perfectly optimized content. (Paid)
+- **RankingRider** - AI-powered bulk SEO optimization for Shopify products via CSV (Freemium).
 
 ### Technical SEO
 
