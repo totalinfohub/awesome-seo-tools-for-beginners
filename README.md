@@ -35,6 +35,7 @@ Contributions are welcome! Please open an issue to suggest a tool.
 - **Google Search Console** - An essential free tool from Google to monitor your site's health, indexing status, and performance.
 - **Screaming Frog SEO Spider** - A powerful desktop program that crawls your website to find technical SEO issues. (Free version is limited)
 - **GTmetrix** - A free tool to analyze your website's speed and performance.
+- **Vaneform** - A free website traffic checker. Look up monthly visitors, traffic trends and visitor sources for any domain. Basic lookups need no account.
 
 ### Link Building
 
